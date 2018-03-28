@@ -1,0 +1,12 @@
+install: npm install
+
+script: gatsby build --prefix-paths
+
+deploy:
+  provider: pages             # Use the Github Pages provider
+  skip_cleanup: true          # Don't remove the output files of our builds, the provider needs them to deploy
+  local_dir: public           # Gatsby output will be found here
+  github_token: $GITHUB_TOKEN # As set in travis-ci.org dashboard
+  target_branch: master       # Sites following the user.github.io pattern can only be served from master :|
+  on:
+    branch: deploy
