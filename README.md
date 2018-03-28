@@ -1,5 +1,13 @@
-# freeCodeCamp Wellington static site
+# Static site for freeCodeCamp Wellington
 
-[![Join the chat at https://gitter.im/freecodecamp-wellington/Website](https://badges.gitter.im/freecodecamp-wellington/Website.svg)](https://gitter.im/freecodecamp-wellington/Website?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+This site is built using [Gatsby](https://github.com/gatsbyjs/gatsby), using the [Lumen theme](https://github.com/alxshelepenok/gatsby-starter-lumen).
 
-Static site for freeCodeCamp Wellington, NZ
+## Getting Started
+Install this site (assuming Gatsby is installed) by running from your CLI:
+`gatsby new site https://github.com/freecodecamp-wellington/site`
+
+#### Running in Development
+`gatsby develop`
+
+#### Building
+`gatsby build`
