@@ -1,6 +1,6 @@
 install: npm install
 
-script: gatsby build --prefix-paths
+script: npm run deploy
 
 deploy:
   provider: pages             # Use the Github Pages provider
