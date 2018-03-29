@@ -1,6 +1,6 @@
 ---
 path: "/meetups/lunch_and_code_2"
-date: "2018-03-27"
+date: "2018-03-28"
 title: "II"
 layout: post
 draft: false
@@ -10,6 +10,10 @@ tags:
   - "meetups"
 description: "The second Lunch and Code meetup."
 ---
+**Your are living in the past, join the [next meetup](https://www.meetup.com/freeCodeCamp-Wellington/events/bvzzmpyxgbqb/)!**
+
+<img src="./lunch_and_code_2.jpg" alt="Snapshot of the meeting" style="width: 200px;"/>
+
 Practical links:
 * This Meetup: https://www.meetup.com/freeCodeCamp-Wellington/events/248562085/
 * Gitter room: https://gitter.im/freecodecamp-wellington/LunchAndCode
