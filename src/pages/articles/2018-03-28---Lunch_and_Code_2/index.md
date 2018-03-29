@@ -12,7 +12,7 @@ description: "The second Lunch and Code meetup."
 ---
 **Your are living in the past, join the [next meetup](https://www.meetup.com/freeCodeCamp-Wellington/events/bvzzmpyxgbqb/)!**
 
-<img src="./lunch_and_code_2.jpg" alt="Snapshot of the meeting" style="width: 200px;"/>
+![Snapshot of the meeting](./1.jpg)
 
 Practical links:
 * This Meetup: https://www.meetup.com/freeCodeCamp-Wellington/events/248562085/
