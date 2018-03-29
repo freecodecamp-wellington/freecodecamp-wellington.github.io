@@ -1,18 +1,15 @@
 ---
-path: "/meetups/lunch_and_code_2"
-date: "2018-03-28"
-title: "II"
+path: "/meetups/lunch_and_code_3"
+date: "2018-04-12"
+title: "III"
 layout: post
 draft: false
 category: "Meetups"
 tags:
   - "coding"
   - "meetups"
-description: "The second Lunch and Code meetup."
+description: "The third Lunch and Code meetup."
 ---
-**Your are living in the past, join the [next meetup](https://www.meetup.com/freeCodeCamp-Wellington/events/bvzzmpyxgbqb/)!**
-
-<img src="lunch_and_code_2.jpg" alt="Snapshot of the meeting" style="width: 200px;"/>
 
 Practical links:
 * Meetup page: https://www.meetup.com/freeCodeCamp-Wellington/events/248562085/
