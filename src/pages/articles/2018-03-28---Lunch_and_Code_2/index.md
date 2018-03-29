@@ -15,9 +15,8 @@ description: "The second Lunch and Code meetup."
 ![Snapshot of the meeting](./1.jpg)
 
 Practical links:
-* Meetup page: https://www.meetup.com/freeCodeCamp-Wellington/events/248562085/
+* This Meetup: https://www.meetup.com/freeCodeCamp-Wellington/events/248562085/
 * Gitter room: https://gitter.im/freecodecamp-wellington/LunchAndCode
-* Help editting this page: https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet
 
 Specify what you would like to do during this meetup. Some ideas:
 * Present a lightning talk about a language, new tool, etc
@@ -29,6 +28,8 @@ Specify what you would like to do during this meetup. Some ideas:
 - Lunch
 
 # Participants
+
+Add yourself here so we know a little more about yourself and what you would like to do during this Meetup: [Edit on Github](https://github.com/freecodecamp-wellington/freecodecamp-wellington.github.io/blob/deploy/src/pages/articles/2018-03-28---Lunch_and_Code_2/index.md)
 
 | Person | Interests | URL | Mentor |
 | -------- | -------- | --- | -------- |
