@@ -10,7 +10,7 @@
     "clean": "npm run clean:public",
     "lint": "./node_modules/.bin/eslint --cache --ext .js,.jsx --ignore-pattern public .",
     "test": "echo \"Error: no test specified\" && exit 1",
-    "deploy": "gatsby build --prefix-paths"
+    "deploy": "node_modules/.bin/gatsby build --prefix-paths"
   },
   "repository": "git+https://github.com/freecodecamp-wellington/site.git",
   "keywords": [
@@ -22,7 +22,7 @@
   "license": "MIT",
   "dependencies": {
     "bluebird": "^3.5.1",
-    "gatsby": "^1.9.243",
+    "gatsby": "^1.9.254",
     "gatsby-cli": "^1.1.49",
     "gatsby-link": "^1.6.34",
     "gatsby-plugin-catch-links": "^1.0.14",
@@ -48,12 +48,12 @@
     "react-helmet": "^5.2.0"
   },
   "devDependencies": {
+    "babel-eslint": "^8.2.1",
     "eslint": "^4.14.0",
     "eslint-config-airbnb": "^16.1.0",
     "eslint-plugin-import": "^2.8.0",
     "eslint-plugin-jsx-a11y": "^6.0.3",
     "eslint-plugin-react": "^7.5.1",
-    "babel-eslint": "^8.2.1",
     "gh-pages": "^1.1.0",
     "lost": "^8.2.0",
     "postcss-pxtorem": "^4.0.1",

@@ -1,6 +1,12 @@
-install: npm install
+cache:
+  - yarn: true
+  - directories: "node_modules"
 
-script: npm run deploy
+install:
+  - yarn
+
+script:
+  - yarn deploy
 
 deploy:
   provider: pages             # Use the Github Pages provider
