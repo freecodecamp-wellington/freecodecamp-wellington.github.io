@@ -1,6 +1,6 @@
-install: npm install
+#install: npm install
 
-script: npm run deploy
+script: yarn deploy
 
 deploy:
   provider: pages             # Use the Github Pages provider
