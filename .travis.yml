@@ -2,11 +2,9 @@
 
 install:
   - yarn
-  - ls -latr node_modules
 
 script:
   - yarn deploy
-  - ls -latr node_modules
 
 deploy:
   provider: pages             # Use the Github Pages provider
