@@ -1,4 +1,6 @@
-#install: npm install
+cache:
+  - yarn: true
+  - directories: "node_modules"
 
 install:
   - yarn
