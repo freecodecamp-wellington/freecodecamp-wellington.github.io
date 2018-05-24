@@ -1,6 +1,6 @@
 ---
 path: "/meetups/hack_night"
-date: "2018-05-16"
+date: "2018-05-24"
 title: "Hack Night"
 layout: post
 draft: false
@@ -12,6 +12,8 @@ tags:
   - "mentoring"
 description: "The first Hack night meetup."
 ---
+
+**Your are looking at a past meetup! Next meetup TBA**
 
 Join and help shape the first edition of the first freeCodeCamp hack night! 👩‍💻
 
@@ -27,6 +29,8 @@ Want to start contributing to open source? ❤️ Otto is a freeCodeCamp contrib
 a project involving all the good things: Lambdas in AWS, testing with Jest, Node 8.10
 and GraphQL. He'll be happy to get anyone interested started in collaborating on
 Open Source in general or one of the freeCodeCamp projects.
+
+![Serious business](./1.jpg)
 
 # Practicalities
 
