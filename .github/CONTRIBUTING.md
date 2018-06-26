@@ -25,7 +25,7 @@ style in order to keep the code as readable as possible.
 ## Testing
 
 We kindly ask that all new features and fixes for an issue should include any unit tests.
-Even if it is small improvement, adding a unit test will help to ensure no regressions or the issue is not re-introduced. 
+Even if it is a small improvement, adding a unit test will help to ensure no regressions or the issue is not re-introduced. 
 If you need help with writing a test for your feature, please don't be shy and ask!
 
 ## Documentation
