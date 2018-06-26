@@ -12,6 +12,6 @@ Pull requests eventually need to resolve to a single commit. The commit log shou
 * After the first line, use markdown to concisely summarize the implementation.
   * This isn't in leiu of comments, and it assumes the reader isn't intimately familar with code structure.
 * If the change closes an issue, note that at the end of the commit description ex. "Fixes #345"
-  * GitHub will automatically close change with this syntax.
+  * GitHub will automatically close changes with this syntax.
 
 
