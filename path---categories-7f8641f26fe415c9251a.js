@@ -1,0 +1,2 @@
+webpackJsonp([30875753179511],{381:function(e,t){e.exports={data:{site:{siteMetadata:{title:"freeCodeCamp Wellington",subtitle:"Learn to code for free.",copyright:"© All rights reserved.",menu:[{label:"Articles",path:"/"},{label:"About us",path:"/about/"},{label:"Contact us",path:"/contact/"}],author:{name:"freeCodeCamp Wellington",linkedin:"#",twitter:"#",github:"freecodecamp-wellington"}}},allMarkdownRemark:{group:[{fieldValue:"Meetups",totalCount:4}]}},pathContext:{}}}});
+//# sourceMappingURL=path---categories-7f8641f26fe415c9251a.js.map
